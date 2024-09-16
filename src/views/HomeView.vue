@@ -1,7 +1,11 @@
 <script setup lang="ts">
-import HeroCompent from "@/components/HeroComponent.vue";
+import HeroComponent from "@/components/HeroComponent.vue";
+import DiscoverComponent from "@/components/DiscoverComponent.vue";
 </script>
 
 <template>
-  <HeroCompent />
+  <div class="space-y-3">
+    <HeroComponent />
+    <DiscoverComponent />
+  </div>
 </template>
