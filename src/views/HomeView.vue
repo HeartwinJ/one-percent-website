@@ -1,5 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import HeroCompent from "@/components/HeroComponent.vue";
+</script>
 
 <template>
-  <main class="text-xl">Home View Works!</main>
+  <HeroCompent />
 </template>
