@@ -6,7 +6,7 @@ import discoverBg from "@/assets/images/discover-bg.jpg";
     <div class="text-3xl text-center">
       Discover a Range of Services to Elevate<br />Your Fitness Journey
     </div>
-    <div class="relative px-16 mt-8">
+    <div class="relative px-32 py-8">
       <img :src="discoverBg" class="w-full" />
       <div class="absolute right-0 top-0 bottom-0 flex items-center">
         <div

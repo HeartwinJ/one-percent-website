@@ -6,6 +6,8 @@ import DiscoverComponent from "@/components/DiscoverComponent.vue";
 <template>
   <div class="space-y-3">
     <HeroComponent />
-    <DiscoverComponent />
+    <div class="container mx-auto sm:px-6 lg:px-8">
+      <DiscoverComponent />
+    </div>
   </div>
 </template>
