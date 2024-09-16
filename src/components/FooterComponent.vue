@@ -17,9 +17,9 @@ const quickLinks = [
 const socialLinks = [
   { icon: IconBrandFacebook, url: "https://facebook.com" },
   { icon: IconBrandX, url: "https://twitter.com" },
-  { icon: IconBrandInstagram, url: "https://instagram.com" },
-  { icon: IconBrandThreads, url: "https://instagram.com" },
-  { icon: IconBrandYoutube, url: "https://youtube.com" },
+  { icon: IconBrandInstagram, url: "https://www.instagram.com/aankit.fit" },
+  { icon: IconBrandThreads, url: "https://www.threads.net/@aankit.fit" },
+  { icon: IconBrandYoutube, url: "https://youtube.com/@aankitfit" },
 ];
 </script>
 
