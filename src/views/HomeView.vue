@@ -4,6 +4,7 @@ import RequirementsComponent from "@/components/RequirementsComponent.vue";
 import DiscoverComponent from "@/components/DiscoverComponent.vue";
 import OfferingsComponent from "@/components/OfferingsComponent.vue";
 import BlogsComponent from "@/components/BlogsComponent.vue";
+import TestimonialsComponent from "@/components/TestimonialsComponent.vue";
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import BlogsComponent from "@/components/BlogsComponent.vue";
       <DiscoverComponent />
       <OfferingsComponent />
       <BlogsComponent />
+      <TestimonialsComponent />
     </div>
   </div>
 </template>
