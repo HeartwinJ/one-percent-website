@@ -5,6 +5,7 @@ import DiscoverComponent from "@/components/DiscoverComponent.vue";
 import OfferingsComponent from "@/components/OfferingsComponent.vue";
 import BlogsComponent from "@/components/BlogsComponent.vue";
 import TestimonialsComponent from "@/components/TestimonialsComponent.vue";
+import NewsletterComponent from "@/components/NewsletterComponent.vue";
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import TestimonialsComponent from "@/components/TestimonialsComponent.vue";
       <OfferingsComponent />
       <BlogsComponent />
       <TestimonialsComponent />
+      <NewsletterComponent />
     </div>
   </div>
 </template>
