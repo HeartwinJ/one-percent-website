@@ -3,6 +3,7 @@ import HeroComponent from "@/components/HeroComponent.vue";
 import RequirementsComponent from "@/components/RequirementsComponent.vue";
 import DiscoverComponent from "@/components/DiscoverComponent.vue";
 import OfferingsComponent from "@/components/OfferingsComponent.vue";
+import BlogsComponent from "@/components/BlogsComponent.vue";
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import OfferingsComponent from "@/components/OfferingsComponent.vue";
       <RequirementsComponent />
       <DiscoverComponent />
       <OfferingsComponent />
+      <BlogsComponent />
     </div>
   </div>
 </template>
